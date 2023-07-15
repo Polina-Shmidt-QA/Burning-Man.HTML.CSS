@@ -1,2 +1,2 @@
-# B-M
-Burning Man final
+# Burning Man
+Первая страниц Burning Man
