@@ -1,2 +1,2 @@
 # Burning Man
-Первая страниц Burning Man
+Первая страница Burning Man
